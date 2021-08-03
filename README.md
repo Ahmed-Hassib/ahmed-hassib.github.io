@@ -1,5 +1,5 @@
 ## About me 👋
-My name is ahmed hassib. I stdied computer science at the college. I am intersting to be a dragon in front-enf web field.  
+My name is ahmed hassib. I studied computer science at the college. I am intersting to be a dragon in front-enf web field.  
 
 ## About my skills
   - HTML, HTML5
