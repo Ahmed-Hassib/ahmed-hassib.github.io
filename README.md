@@ -1,4 +1,5 @@
 ## Hi there 👋
+my name is ahmed hassib. I stdied computer science at the college. I am intersting to be a dragon in front-enf web field.  
 
 <!--
 **Ahmed-Hassib/ahmed-hassib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
