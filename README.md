@@ -6,6 +6,6 @@ My name is ahmed hassib. I stdied computer science at the college. I am intersti
   - CSS, CSS3
   - Javascript
   - Javascript DOM & BOM
+  - Bootstrap
   - AngularJs
   - Git & GitHub
-  - 
