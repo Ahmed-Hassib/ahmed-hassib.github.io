@@ -1,0 +1,73 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .opening-hero-image {height: 100vh;}
+    .display-4 {font-size: 2.5rem;}
+    /* hero-text */
+    .hero-text {width: 80%;}
+    .section, .header {padding: 0; margin: 0;}
+    /* header */
+    .header p.lead {width: 100%;}
+    /* why we */
+    .why-we .card {margin: 1rem 0;}
+    /* feedback */
+    .feedback .carousel-caption {width: 100%;}
+    /* project cards */
+    .portfolio .project {margin: 1rem 0;}
+    /* get in touch */
+    .get-in-touch-form {margin: 0;}
+    .get-in-touch-form .col-sm-12 {padding: 0;}
+    .get-in-touch-form input[name=first-name] {margin: 1rem 0;}
+    /* footer */
+    footer {padding: 0;}
+    /* contacts */
+    .contact-list li:last-child {text-align: center;}
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .display-4 {font-size: 3rem;}
+    /* hero-text */
+    .hero-text {width: 80%;}
+    .section, .header {margin: 0;}
+    /* header */
+    .header p.lead {width: 100%;}
+    /* why we */
+    .why-we .card {margin: 1rem 0;}
+    /* feedback */
+    .feedback .carousel-caption {width: 100%;}
+    /* project cards */
+    .portfolio .project {margin: 1rem 0;}
+    .portfolio-content .row {margin: 0;}
+    /* get in touch */
+    .get-in-touch-form {margin: 0;}
+    .get-in-touch-form .col-sm-12 {padding: 0;}
+    .get-in-touch-form input[name=first-name] {margin: 1rem 0;}
+    /* contacts */
+    .contact-list li:last-child {text-align: center;}
+
+    form .row:last-of-type .col-sm-12 {text-align: center;}
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    /* project cards */
+    .portfolio .project {margin: 1rem 0;}
+    .portfolio-content .row {margin: 0;}
+    /* get in touch */
+    .get-in-touch-form {margin: 0;}
+    /* contacts */
+    .contact-list li:last-child {text-align: center;}
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 1199.98px) {
+    /* project cards */
+    .portfolio .project {margin: 1rem 0;}
+    .portfolio-content .row {margin: 0;}
+    /* get in touch */
+    .get-in-touch-form {margin: 7rem 0 0;}
+    /* contacts */
+    .contact-list li:last-child {text-align: center;}
+} 

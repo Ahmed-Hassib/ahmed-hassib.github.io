@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "files.autoGuessEncoding": true,
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "workbench.colorTheme": "Default Dark+",
+    // "auto-close-tag.fullMode": true,
+    // "auto-close-tag.SublimeText3Mode": true,
+    "auto-close-tag.enableAutoCloseTag": true,
+    "maven.view": "hierarchical"
+}
