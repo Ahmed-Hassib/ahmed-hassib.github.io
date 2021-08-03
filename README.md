@@ -4,8 +4,9 @@ My name is ahmed hassib. I studied computer science at the college. I am interst
 ## About my skills
   - HTML, HTML5
   - CSS, CSS3
-  - Javascript
+  - Javascript Basic
   - Javascript DOM & BOM
+  - Javascript OOP
   - Bootstrap
   - AngularJs
   - Git & GitHub
